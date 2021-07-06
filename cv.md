@@ -22,8 +22,18 @@ Skills:
    - SCSS 
    - FLEX
    - GRID
+
 - JS 
-   - JQUERY (slick-slider / owl-slider / swiper-slider / lightbox-gallery)
+   - jquery
+   - slick-slider 
+   - owl-slider 
+   - swiper-slider 
+   - lightbox-gallery
+   - magnific Popup gallery
+   - inputmask
+   - just-validate
+
+- BOOTSTRAP
 
 - GULP
 
@@ -45,6 +55,9 @@ Code examples:
 - https://fpsska.github.io/ActiveBox-Landing/
 - https://github.com/Fpsska/Bouncy-Landing
 - https://github.com/Fpsska/KarBox-Online-Store
+- https://fpsska.github.io/Cedro-Task/#
+- https://fpsska.github.io/LuckyGroup-Task/
+- https://fpsska.github.io/ParadigmaTask/
 
 
 
