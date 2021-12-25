@@ -1,5 +1,5 @@
 ## Egorov Evgeniy
-### Age 20 y.o
+### Age 21 y.o
 ### Locatoin: Saint-Petersburg, Russia
 ---
 ```
@@ -33,7 +33,13 @@ Skills:
    - inputmask
    - just-validate
 
+- VUE + VUEX
+
+- REACT + REDUX/REDUX-TOOLKIT
+
 - BOOTSTRAP
+
+- ANT-DESIGN
 
 - GULP
 
@@ -52,12 +58,9 @@ Programs:
 ```
 Code examples:
 ```
-- https://fpsska.github.io/ActiveBox-Landing/
-- https://github.com/Fpsska/Bouncy-Landing
-- https://github.com/Fpsska/KarBox-Online-Store
-- https://fpsska.github.io/Cedro-Task/#
-- https://fpsska.github.io/LuckyGroup-Task/
-- https://fpsska.github.io/ParadigmaTask/
+- https://github.com/Fpsska/Steamscord
+- https://github.com/Fpsska/Steamscord
+- https://github.com/Fpsska/Trucs-Landing
 
 
 
