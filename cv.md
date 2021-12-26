@@ -6,8 +6,9 @@
 Social:
 ```
 - e-mail: fpsska1337@gmail.com 
-- github: https://github.com/Fpsska
-- telegram: @Fpsska
+- [github: https://github.com/Fpsska](https://github.com/Fpsska)
+- [codewars: https://www.codewars.com/users/Fpsska](https://www.codewars.com/users/Fpsska)
+- [telegram: @Fpsska](https://t.me/Fpsska)
 
 ```
 About:
@@ -61,8 +62,6 @@ Code examples:
 - [https://github.com/Fpsska/Steamscord](https://github.com/Fpsska/Steamscord)
 - [https://github.com/Fpsska/Cats-Store](https://github.com/Fpsska/Cats-Store)
 - [https://github.com/Fpsska/Trucs-Landing](https://github.com/Fpsska/Trucs-Landing)
-- 
-
 
 
 ```
