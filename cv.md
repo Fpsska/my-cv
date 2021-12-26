@@ -59,7 +59,7 @@ Programs:
 Code examples:
 ```
 - https://github.com/Fpsska/Steamscord
-- https://github.com/Fpsska/Steamscord
+- https://github.com/Fpsska/Cats-Store
 - https://github.com/Fpsska/Trucs-Landing
 
 
